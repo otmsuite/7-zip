@@ -3,4 +3,4 @@ Repositório criado para fins de distribuição de binários e disponibilizaçã
 
 É possível realizar o download tanto dos binários (7-Zip Extra) quanto dos fontes nas releases desse repositório (https://github.com/otmsuite/7-zip/releases).
 
-O conteúdo dos binários e fontes presentes nesse release refletem os encontrados na data de 16/10/2020 no site do 7-Zip (https://www.7-zip.org/download.html).
+O conteúdo dos binários e fontes presentes nesse repositório refletem os encontrados no site do 7-Zip (https://www.7-zip.org/download.html).
